@@ -4,16 +4,6 @@ This project focuses on assessing apathy-like behavior in an animal model. It ou
 
 ## Overview
 - **Objective**: Present the various stages of a pilot scientific study.
-- **Scope**: Due to non-disclosure obligations, sensitive data and details are not shared in this presentation.
-
-## Contents:
-- **Project_Behavioral_Data_Analysis.ipynb**: The Jupyter Notebook encompasses the entire workflow of the project, including:
-  - Background research
-  - Observation phase
-  - Pilot study design and execution
-  - Data collection, cleaning, and analysis
-  - Data visualization
-  - Communication of results and feedback received
 
 ## Project Stages:
 1. **Observation**: Initial phase of the study.
@@ -22,7 +12,7 @@ This project focuses on assessing apathy-like behavior in an animal model. It ou
 4. **Data Analysis and Visualization**: Analyzing the data and visualizing findings.
 5. **Communication of Results**: Presenting results and discussing their implications.
 
-## Caution:
+## Important:
 - **Confidentiality**: This project is bound by non-disclosure agreements. Therefore, it does not include specific sensitive data or detailed results.
 
 ## How to View:
