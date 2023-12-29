@@ -1,4 +1,4 @@
-# Scientific Behavioral Data Analysis Project
+# Scientific Behavioral Data Analysis RESEARCH Project
 
 This project focuses on assessing apathy-like behavior in an animal model. It outlines the steps undertaken in creating a pilot scientific study during an internship in a neuroscience lab.
 
